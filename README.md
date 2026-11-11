@@ -1,10 +1,10 @@
-Course Materials | Student Repository
+# Course Materials | Student Repository
 
 Welcome to the student repository for Quantitative and Computational Biosciences!
 
 This repository provides the recommended readings and datasets needed for the coding labs accompanying each course module.
 
-Repository Contents
+## Repository Contents
 
 For each module, you will find:
 
